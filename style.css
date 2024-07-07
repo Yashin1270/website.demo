@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+#title{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+#made{
+    color: white;
+}
+#scame{
+    color: white;
+    border-color:white;
+    border-radius: 50px;
+}
